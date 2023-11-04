@@ -10,6 +10,7 @@ function App() {
     
     if (counter < 20) {
       setCounter(counter + 1)
+      
     }
   }
 
